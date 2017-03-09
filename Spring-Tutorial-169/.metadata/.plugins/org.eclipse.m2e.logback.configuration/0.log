@@ -42,3 +42,40 @@
 2017-03-08 22:10:07,372 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\java\Spring-Tutorial-169\spring-tutorial-169\src\main\resources
 2017-03-08 22:10:07,374 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-03-08 22:10:07,433 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\java\Spring-Tutorial-169\spring-tutorial-169\src\test\resources
+2017-03-08 22:19:59,016 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-08 22:19:59,022 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\java\Spring-Tutorial-169\spring-tutorial-169\src\main\resources
+2017-03-08 22:19:59,023 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-08 22:19:59,032 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\java\Spring-Tutorial-169\spring-tutorial-169\src\test\resources
+2017-03-08 22:24:37,441 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @1063182ms
+2017-03-08 22:24:37,711 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.3.9.v20160517
+2017-03-08 22:24:37,811 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5564fe28{/help,null,AVAILABLE}
+2017-03-08 22:24:37,858 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@d300c3a{HTTP/1.1,[http/1.1]}{127.0.0.1:52649}
+2017-03-08 22:24:37,858 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @1063599ms
+2017-03-08 22:26:58,858 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-08 22:26:59,040 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\java\Spring-Tutorial-169\spring-tutorial-169\src\main\resources
+2017-03-08 22:26:59,041 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-08 22:26:59,075 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\java\Spring-Tutorial-169\spring-tutorial-169\src\test\resources
+2017-03-08 22:28:58,310 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-08 22:28:58,318 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\java\Spring-Tutorial-169\spring-tutorial-169\src\main\resources
+2017-03-08 22:28:58,322 [Worker-76] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-08 22:28:58,329 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\java\Spring-Tutorial-169\spring-tutorial-169\src\test\resources
+2017-03-08 22:31:26,418 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-08 22:31:26,426 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\java\Spring-Tutorial-169\spring-tutorial-169\src\main\resources
+2017-03-08 22:31:26,428 [Worker-77] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-08 22:31:26,435 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\java\Spring-Tutorial-169\spring-tutorial-169\src\test\resources
+2017-03-08 22:35:09,141 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-08 22:35:09,146 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\java\Spring-Tutorial-169\spring-tutorial-169\src\main\resources
+2017-03-08 22:35:09,148 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-08 22:35:09,164 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\java\Spring-Tutorial-169\spring-tutorial-169\src\test\resources
+2017-03-08 22:35:30,752 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-08 22:35:30,759 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\java\Spring-Tutorial-169\spring-tutorial-169\src\main\resources
+2017-03-08 22:35:30,763 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-08 22:35:30,769 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\java\Spring-Tutorial-169\spring-tutorial-169\src\test\resources
+2017-03-08 22:42:23,599 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-08 22:42:23,607 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\java\Spring-Tutorial-169\spring-tutorial-169\src\main\resources
+2017-03-08 22:42:23,610 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-08 22:42:23,618 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\java\Spring-Tutorial-169\spring-tutorial-169\src\test\resources
+2017-03-08 22:48:22,424 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-08 22:48:22,431 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\java\Spring-Tutorial-169\spring-tutorial-169\src\main\resources
+2017-03-08 22:48:22,432 [Worker-81] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-08 22:48:22,439 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory Z:\java\Spring-Tutorial-169\spring-tutorial-169\src\test\resources
